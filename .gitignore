@@ -1,0 +1,17 @@
+# Data files (CSVs)
+data/clean/*.csv
+data/raw/*.csv
+
+# Environment
+.env
+
+# Virtual environments
+.venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store

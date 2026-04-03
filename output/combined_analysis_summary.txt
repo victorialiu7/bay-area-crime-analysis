@@ -1,0 +1,38 @@
+============================================================
+SAN FRANCISCO vs OAKLAND CRIME DATA COMPARISON
+============================================================
+
+Analysis Date: 2026-01-28 22:04:24
+
+DATASET OVERVIEW
+------------------------------------------------------------
+San Francisco records: 622,377
+Oakland records: 322,330
+Total records: 944,707
+
+DATE RANGES
+------------------------------------------------------------
+San Francisco: 2018-01-01 00:00:00 to 2023-12-31 00:00:00
+Oakland: 2018-01-01 00:00:00 to 2023-12-31 00:00:00
+
+PERIOD BREAKDOWN
+------------------------------------------------------------
+San Francisco:
+  covid     :  190,157 (30.55%)
+  post      :  206,345 (33.15%)
+  pre       :  225,875 (36.29%)
+
+Oakland:
+  covid     :   99,562 (30.89%)
+  post      :  122,776 (38.09%)
+  pre       :   99,992 (31.02%)
+
+PERIOD IMPACT (Change from Pre-COVID)
+------------------------------------------------------------
+San Francisco:
+  COVID period: -15.81%
+  Post-COVID period: -8.65%
+
+Oakland:
+  COVID period: -0.43%
+  Post-COVID period: +22.79%
