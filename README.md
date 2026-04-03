@@ -25,25 +25,6 @@ Raw data was collected through web scraping and API access, then cleaned and sta
 
 ![](output/combined_period_impact.png)
 
-## Project Structure
-
-```
-├── data/
-│   ├── raw/           # Raw scraped data files
-│   ├── clean/         # Cleaned and processed data
-│   └── tableau/       # Data prepared for Tableau
-├── scripts/
-│   ├── scrape_sf_oak.py      # Data collection script
-│   ├── clean_sf.py           # SF data cleaning
-│   ├── clean_oak.py          # Oakland data cleaning
-│   ├── prepare_tableau_data.py  # Tableau data prep
-│   └── analyze_combined.py   # Main analysis script
-├── output/
-│   └── combined_analysis_summary.txt  # Analysis results
-├── requirements.txt   # Python dependencies
-└── README.md         # This file
-```
-
 ## How to Run
 
 1. **Setup Environment:**
